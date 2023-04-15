@@ -1,0 +1,16 @@
+Welcome to Find My Seat!
+
+The purpose of this simple program is to assist you in finding your room no. and exact seat for all of your exams.
+This program does 2 simple things:
+1. Connect to your Gmail to download latest seating plan.
+2. Find your seat from the downloaded pdf.
+
+If you refuse to connect to Gmail (in case you have the seating plan pdf file already downloaded), then you will be prompted to 
+select path for the seating plan pdf.
+If you accept to connect to your Gmail, then you will be prompted to enter your slate login credentials for the program to allow your download. it may take a few seconds.
+
+Note: 
+This is an individual project and I am looking forward to feedback from you guys. Kindly report any errors to me
+at my email:
+hassanrasool1057@gmail.com
+This program will only work for CS Department students.
