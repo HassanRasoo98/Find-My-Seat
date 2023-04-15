@@ -6,7 +6,7 @@ Important: YOU NEED FIREFOX TO RUN THIS SHIT OTHER WISE CHANGE THE SELENIUM CODE
 Instructions:
 1. Open cmd on windows or bash terminal on linux systems.
 2. Navigate to the folder containing project.
-3. type command "python FindMySeat.py". type in arguments for additional functionality. Also see: Arguments.
+3. type command "python find_my_seat.py". type in arguments for additional functionality. Also see: Arguments.
 4. type in your name and batch and last 4 digits of your roll number. Name does not matter but batch and roll number
 	must be correct.
 5. wait and see the results.
