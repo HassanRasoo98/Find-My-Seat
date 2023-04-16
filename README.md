@@ -21,14 +21,14 @@ leave a rating. thanks for using this program.
 in case of feedback or review or complaint, kindly write an email to me at hassanrasool1057@gmail.com
 
 To-do:
-1. include a parameter time, which, when set to True, also displays the timing of the exam. done.
-2. Add arguments functionality. done
-3. add references to code snippets taken from the internet.
-4. try a different pdf module. done.
-5. correct inorrect results. done.
-6. correct display of section is cases where there are two sections.
-7. Make dialog box to take input argument values instead of command line arguments (use PySimpleGUI). done
-8. download final version of the timetable from gmail api. done
+- [x]  include a parameter time, which, when set to True, also displays the timing of the exam.
+- [x] Add arguments functionality.
+- [ ] add references to code snippets taken from the internet.
+- [x] try a different pdf module.
+- [x] correct incorrect results. 
+- [ ] correct display of section is cases where there are two sections.
+- [x] Make dialog box to take input argument values instead of command line arguments (use PySimpleGUI).
+- [x] download final version of the timetable from gmail api.
 
 Python Modules used for this project:
 1. Gmail Api
@@ -47,6 +47,6 @@ unsequential thoughts represented as a poem:
 "
 i keep doing things that don't matter at all.
 these types of projects don't have much worth i feel.
-but that could because of the envrionment i am setup in
+but that could because of the environment i am setup in
 my mind can go only as far as my surroundings allow me to think!
 "
