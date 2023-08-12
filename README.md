@@ -1,5 +1,6 @@
 # Find-My-Seat
 a simple find my seat command line tool to find seat #, exam hall, exam time of a certain student just by running one command.
+Note: if you want to see the working of this program in action you can visit this link: https://youtu.be/hkyjOBrrhMY
 
 Important: YOU NEED FIREFOX TO RUN THIS SHIT OTHER WISE CHANGE THE SELENIUM CODE YOURSELF. I'M TIRED.
 
